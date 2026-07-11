@@ -84,3 +84,40 @@ The main objective of this project is to explore JavaScript's ability to interac
 - Updating UI with `textContent`
 
   
+## ** PROJECT FOUR :- Guess_The_Number **
+
+## 📖 Project Description
+
+The **Guess the Number** is an interactive browser-based game developed using **HTML, CSS, and Vanilla JavaScript**. In this game, the computer randomly generates a number between **1 and 100**, and the player must guess the correct number within **10 attempts**.
+
+The game provides real-time hints after each guess, informing the player whether the entered number is too high or too low. It also displays previous guesses, tracks the remaining attempts, validates invalid inputs, and allows users to restart the game after completing a round.
+
+This project was created to strengthen my understanding of JavaScript by implementing real-world programming concepts such as event-driven programming, DOM manipulation, input validation, and application state management.
+
+### ✨ Features
+
+- 🎯 Random number generation between 1 and 100
+- 🔢 Maximum of 10 guessing attempts
+- 💡 Instant feedback (Too High / Too Low)
+- 📋 Displays previous guesses
+- ⏳ Tracks remaining attempts
+- ✅ Validates invalid user inputs
+- 🔄 Restart game functionality
+- ⚡ Dynamic UI updates without page refresh
+
+### 🛠️ Concepts Used
+
+- HTML & CSS
+- JavaScript DOM Manipulation
+- Event Listeners
+- Form Submission Handling
+- Input Validation
+- Conditional Logic (`if-else`)
+- Random Number Generation (`Math.random()`)
+- Arrays
+- Dynamic Element Creation
+- DOM Attribute Manipulation
+- Functions & Scope
+- Game State Management
+
+  
