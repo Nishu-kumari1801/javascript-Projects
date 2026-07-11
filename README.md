@@ -46,3 +46,30 @@ The primary goal of this project is to gain practical experience with JavaScript
 - Arithmetic Operations
 - Dynamic UI Updates
 
+## ** PROJECT THREE :- Digital_Clock **
+
+## 📖 Project Description
+
+The **Digital Clock** is a beginner-friendly web application developed using **HTML, CSS, and JavaScript**. It displays the current system time in real time and updates automatically every second, providing a smooth and interactive user experience.
+
+The main objective of this project is to explore JavaScript's ability to interact with the DOM and work with built-in date and timing functions. It demonstrates how dynamic content can be rendered on a webpage without requiring manual page refreshes.
+
+### ✨ Features
+
+- 🕒 Displays the current system time
+- ⚡ Automatically updates every second
+- 🔄 Real-time clock without page reload
+- 💻 Clean and responsive user interface
+- 🚀 Built entirely with HTML, CSS, and Vanilla JavaScript
+
+### 🛠️ Concepts Used
+
+- HTML & CSS
+- JavaScript DOM Manipulation
+- `Date` Object
+- `setInterval()` Timer Function
+- Dynamic Content Updates
+- Element Selection (`getElementById`)
+- Updating UI with `textContent`
+
+  
