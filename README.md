@@ -6,17 +6,28 @@ A growing collection of JavaScript projects covering fundamentals, DOM, APIs, as
 
 ## 📖 Project Description
 
-Color Changer is a simple and interactive web application developed using **HTML, CSS, and JavaScript**. The application allows users to change the background color of the webpage by selecting different color options.
+The **Color Changer** is a simple yet interactive web application built using **HTML, CSS, and Vanilla JavaScript**. It enables users to change the background color of the webpage by selecting different color buttons. The interface responds instantly to user actions, creating a smooth and engaging experience.
 
-This project was created to strengthen the understanding of JavaScript fundamentals, including DOM manipulation, event handling, and dynamic style updates. It is a beginner-friendly project that demonstrates how JavaScript can be used to create responsive and interactive user interfaces without using any external libraries or frameworks.
+This project was developed to practice JavaScript fundamentals, particularly how to handle user events, manipulate DOM elements, and dynamically update webpage styles. It is an excellent beginner project for understanding how JavaScript adds interactivity to static web pages.
 
 ### ✨ Features
 
-- 🎨 Change the background color with a single click
-- ⚡ Instant color switching
-- 📱 Simple and responsive user interface
-- 💻 Built using pure HTML, CSS, and JavaScript
-- 🚀 Great project for beginners learning JavaScript
+- 🎨 Change the webpage background with a single click
+- ⚡ Instant UI updates without page refresh
+- 🖱️ Interactive button-based color selection
+- 💻 Built entirely using HTML, CSS, and Vanilla JavaScript
+- 🚀 Beginner-friendly project for learning DOM manipulation
+
+### 🛠️ Concepts Used
+
+- HTML & CSS
+- JavaScript DOM Manipulation
+- `querySelector()` and `querySelectorAll()`
+- Event Listeners
+- Mouse Click Events
+- Event Object (`event.target`)
+- `forEach()` Iteration
+- Dynamic CSS Property Updates
 
 
 ## ** PROJECT TWO :- BMI_Calculator **
