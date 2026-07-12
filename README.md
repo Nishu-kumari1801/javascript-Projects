@@ -149,3 +149,33 @@ This project was built to explore JavaScript's event-driven programming model an
 - Conditional (Ternary) Operator
 - Event-Driven Programming
 
+## ** PROJECT SIX :- unlimited_color **
+
+## 📖 Project Description
+
+The **Unlimited Color Changer** is a beginner-friendly web application developed using **HTML, CSS, and Vanilla JavaScript**. The application generates random hexadecimal colors and continuously updates the webpage's background color every second. Users can start and stop the color-changing animation with a single click, creating a fun and interactive visual experience.
+
+This project was built to strengthen my understanding of JavaScript by implementing event-driven programming, timer functions, random color generation, and dynamic DOM manipulation. It demonstrates how JavaScript can be used to create responsive and animated user interfaces without relying on external libraries.
+
+### ✨ Features
+
+- 🎨 Generates random hexadecimal colors
+- 🌈 Automatically changes the background color every second
+- ▶️ Start button to begin the animation
+- ⏹️ Stop button to pause the animation
+- ⚡ Smooth real-time UI updates
+- 💻 Built entirely with HTML, CSS, and Vanilla JavaScript
+
+### 🛠️ Concepts Used
+
+- HTML & CSS
+- JavaScript DOM Manipulation
+- Event Listeners
+- Timer Functions (`setInterval()` & `clearInterval()`)
+- Random Number Generation
+- Hexadecimal Color Codes
+- Functions & Scope
+- Dynamic CSS Property Updates
+- Event-Driven Programming
+
+  
