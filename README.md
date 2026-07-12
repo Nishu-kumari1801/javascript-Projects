@@ -121,3 +121,31 @@ This project was created to strengthen my understanding of JavaScript by impleme
 - Game State Management
 
   
+## ** PROJECT FIVE :- keyboard_Check **
+
+## 📖 Project Description
+
+The **Keyboard Check** is a beginner-friendly web application developed using **HTML, CSS, and Vanilla JavaScript**. It captures keyboard events and displays detailed information about every key pressed, including the **key value**, **keyCode**, and **code** in a dynamically generated table.
+
+This project was built to explore JavaScript's event-driven programming model and understand how keyboard events interact with the browser. It demonstrates how user actions can be captured in real time and reflected instantly on the webpage through dynamic DOM updates.
+
+### ✨ Features
+
+- ⌨️ Detects every key pressed on the keyboard
+- 📋 Displays the key value, keyCode, and code
+- ⚡ Updates information instantly without refreshing the page
+- 🎯 Handles special keys such as the Spacebar
+- 💻 Built entirely with HTML, CSS, and Vanilla JavaScript
+
+### 🛠️ Concepts Used
+
+- HTML & CSS
+- JavaScript DOM Manipulation
+- Keyboard Events (`keydown`)
+- Event Listeners
+- Event Object Properties (`key`, `keyCode`, `code`)
+- Template Literals
+- Dynamic HTML Updates using `innerHTML`
+- Conditional (Ternary) Operator
+- Event-Driven Programming
+
